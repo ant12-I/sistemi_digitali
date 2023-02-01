@@ -1,0 +1,5 @@
+Aluminum
+Glass
+Other
+Paper
+Plastic
